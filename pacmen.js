@@ -80,7 +80,6 @@ function checkCollisions(item) {
  if (item.position.y + item.velocity.y + item.newimg.height > window.innerHeight ||
      item.position.y + item.velocity.y <0) item.velocity.y = -item.velocity.y;
 
- //return direction, position, velocity;
     }
 
 function makeOne() {
