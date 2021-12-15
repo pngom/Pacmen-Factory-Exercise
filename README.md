@@ -6,7 +6,7 @@ This project is an assignment that I completed to fulfill the requirements of th
 
 It helped put to work fundamental Javascript concepts like Conditionals, Functions, Scope, Arrays, etc. The output is pretty fun!
 
-The assignment was about creating a game with lots of PacMan, all moving around freely with their mouth opened and closed, bouncing of both the vertical and horizontal walls. The user can add PacMan at any time.
+The assignment is about creating a game with lots of PacMan, all moving around freely with their mouth opened and closed, bouncing of both the vertical and horizontal walls. The user can add as many PacMan as she wants.
 
 ## Repository File Structure
 There are six files required to run the Pacmen Factory. All six files are listed in this repository: 
