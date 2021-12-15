@@ -39,7 +39,7 @@ Build features to reproduce the basic original Pacman game:
 
 ## Contributors
 - Pappe Ngom
-- Dr. John Williams - MIT
+- MIT xPRO
 
 ## License information
 
